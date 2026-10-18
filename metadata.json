@@ -1,0 +1,6 @@
+{
+  "name": "Family Chat",
+  "description": "Humorous Indian family chat simulation game with branching storylines, secrets, 20 characters, and 5 distinct endings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
